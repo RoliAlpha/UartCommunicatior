@@ -1,0 +1,2 @@
+# UartCommunicatior
+UartCommunicatior communication components for ardusensorplatform framework
